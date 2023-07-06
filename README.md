@@ -10,16 +10,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
 
 ### Screenshot
+Desktop 1440px-
 
+Mobile 375px 
 ![](./screenshot.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
@@ -43,12 +42,13 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS variable
 - Mobile-first workflow
+- Sublime Text
 
 ### What I learned
 Used HTML, CSS to create QR code component. Implemented flexbox property ``` flex flow:row; ``` to allign product card, css variables for color and background color component. 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [@kudostoshef](https://github.com/kudos2Shef)
+- Frontend Mentor - [@kudostoshef]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/kudos2Shef)https://www.frontendmentor.io/profile/kudos2Shef)
 
