@@ -39,7 +39,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Sublime Text
 
 ### What I learned
-Used HTML, CSS to create QR code component. Implemented flexbox property ``` flex flow:row; ``` to allign product card, css variables for color and background color component. 
+Used HTML, CSS to create QR code component. Implemented flexbox property ``` flex flow:row; ``` to align product card, css variables for color and background color component. 
 
 ## Author
 
